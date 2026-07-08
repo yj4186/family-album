@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/144608/pexels-photo-144608.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "이빨을 보이며 장난스러운 표정을 짓는 강아지의 흑백 클로즈업 사진"
+  },
+  {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/9810766/pexels-photo-9810766.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "야외에서 활기차게 뛰노는 강아지의 흑백 사진"
+  },
+  {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/8093682/pexels-photo-8093682.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "화창한 날 야외에서 편안하게 쉬고 있는 강아지들의 흑백 사진"
+  },
+  {
+    "id": 4,
+    "url": "https://images.pexels.com/photos/30074125/pexels-photo-30074125.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "화사한 배경 앞에 앉아 있는 귀여운 갈색 강아지"
+  },
+  {
+    "id": 5,
+    "url": "https://images.pexels.com/photos/20680840/pexels-photo-20680840.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "실내에서 나란히 앉아 있는 복슬복슬한 강아지 두 마리"
+  },
+  {
+    "id": 6,
+    "url": "https://images.pexels.com/photos/38221522/pexels-photo-38221522.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "골목길을 탐험하는 강아지들의 흑백 사진"
+  },
+  {
+    "id": 7,
+    "url": "https://images.pexels.com/photos/30917362/pexels-photo-30917362.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "마른 잔디밭에 엎드려 있는 강아지의 흑백 사진"
+  },
+  {
+    "id": 8,
+    "url": "https://images.pexels.com/photos/32113856/pexels-photo-32113856.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "야외를 탐험하는 잭 러셀 테리어 강아지"
+  },
+  {
+    "id": 9,
+    "url": "https://images.pexels.com/photos/32080246/pexels-photo-32080246.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "화창한 날 야외에서 즐거운 시간을 보내는 강아지 두 마리"
+  },
+  {
+    "id": 10,
+    "url": "https://images.pexels.com/photos/15778742/pexels-photo-15778742.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "마른 나뭇가지 사이 흙바닥에서 노는 황갈색 강아지 두 마리"
+  },
+  {
+    "id": 11,
+    "url": "https://images.pexels.com/photos/29373007/pexels-photo-29373007.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "야외에 함께 앉아 있는 믹스견 강아지 두 마리"
+  },
+  {
+    "id": 12,
+    "url": "https://images.pexels.com/photos/18941334/pexels-photo-18941334.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "나무 판자 너머로 호기심 어린 눈빛으로 쳐다보는 강아지 두 마리"
+  }
+]

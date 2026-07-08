@@ -1,0 +1,38 @@
+.footer {
+  background: var(--color-primary-dark);
+  color: #eaf1fb;
+  margin-top: auto;
+}
+
+.inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.9rem;
+}
+
+.social {
+  display: flex;
+  gap: 1rem;
+}
+
+.social a {
+  color: #eaf1fb;
+  opacity: 0.85;
+}
+
+.social a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.copyright,
+.contact {
+  margin: 0;
+  opacity: 0.85;
+}

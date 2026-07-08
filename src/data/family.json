@@ -1,0 +1,16 @@
+[
+  {
+    "id": "jay",
+    "name": "제이",
+    "role": "가족",
+    "photoUrl": "https://images.pexels.com/photos/16444650/pexels-photo-16444650.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "bio": "이 가족앨범을 만든 사람이에요. 꿈이와 함께하는 소소한 일상을 기록하고 있어요."
+  },
+  {
+    "id": "kkumi",
+    "name": "꿈이",
+    "role": "반려견",
+    "photoUrl": "https://images.pexels.com/photos/32155881/pexels-photo-32155881.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "bio": "호기심 많고 애교 많은 우리 집 막내. 산책과 낮잠을 제일 좋아해요."
+  }
+]

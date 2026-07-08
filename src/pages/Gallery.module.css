@@ -1,0 +1,33 @@
+.gallery h1 {
+  color: var(--color-primary-dark);
+  margin-bottom: 0.5rem;
+}
+
+.intro {
+  color: var(--color-text-muted);
+  margin-bottom: 2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.item {
+  margin: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  aspect-ratio: 4 / 3;
+}
+
+.item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.25s ease;
+}
+
+.item:hover img {
+  transform: scale(1.06);
+}
